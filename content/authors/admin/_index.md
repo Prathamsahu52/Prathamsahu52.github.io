@@ -80,8 +80,6 @@ email: ''
 highlight_name: true
 ---
 Hi I am Pratham Sahu, a third year undergradaute student majoring in Computer Science and Engineering at the Indian Institute of Technology Kanpur. I am interested in Machine learning and its applications in the real world. Theoretical Computer Science and Sytem Development also excite me.
-
 I am also associated with the Programming Club at IIT Kanpur where I am currently the coordinator. We are a group of like minded individuals who love exploring the multiple domains of Programming. 
-
 I love to travel and hope to someday cross out all the points from my bucket list.
 {style="text-align: justify;"}
