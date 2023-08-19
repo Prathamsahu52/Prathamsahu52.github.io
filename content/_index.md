@@ -12,22 +12,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: features
-  #   content:
-  #     title: Skills
-  #     items:
-  #       - name: R
-  #         description: 90%
-  #         icon: r-project
-  #         icon_pack: fab
-  #       - name: Statistics
-  #         description: 100%
-  #         icon: chart-line
-  #         icon_pack: fas
-  #       - name: Photography
-  #         description: 10%
-  #         icon: camera-retro
-  #         icon_pack: fas
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Photography
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
   - block: experience
     content:
       title: Work Experience
@@ -43,16 +43,16 @@ sections:
         - title: Intern Research Assistant
           company: Yonsei Vision and learning Laboratories
           company_url: ''
-          # company_logo: org-x
+          company_logo: org-x
           location: Seoul, South Korea
           date_start: '2023-05-01'
-          date_end: 'Present'
+          date_end: ''
           description: Performed research on Continual Learning Algorithms
 
         - title: Platform software engineering intern
           company: mSenseAI
           company_url: 'msense.ai'
-          # company_logo: org-gc
+          company_logo: org-gc
           location: Bengaluru
           date_start: '2022-07-01'
           date_end: '2022-08-01'
@@ -100,33 +100,33 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
   - block: portfolio
     id: projects
     content:
