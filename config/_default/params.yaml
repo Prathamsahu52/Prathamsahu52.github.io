@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Praatham. '
+    notice: '© {year} Pratham. '
     license:
       enable: true
       allow_derivatives: false
