@@ -28,7 +28,7 @@ bio: My interests include Machine Learning and creating scalable systems
 interests:
   - Machine Learning
   - Mathematics
-  - System Design and dev
+  - System Design and Dev
 
 # Education to show in About widget
 education:
