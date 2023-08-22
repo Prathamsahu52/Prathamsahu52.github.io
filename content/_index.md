@@ -12,22 +12,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: R
+  #         description: 90%
+  #         icon: r-project
+  #         icon_pack: fab
+  #       - name: Statistics
+  #         description: 100%
+  #         icon: chart-line
+  #         icon_pack: fas
+  #       - name: Photography
+  #         description: 10%
+  #         icon: camera-retro
+  #         icon_pack: fas
   - block: experience
     content:
       title: Work Experience
@@ -43,7 +43,7 @@ sections:
         - title: Intern Research Assistant
           company: Yonsei Vision and learning Laboratories
           company_url: ''
-          company_logo: org-x
+          # company_logo: org-x
           location: Seoul, South Korea
           date_start: '2023-05-01'
           date_end: ''
@@ -52,7 +52,7 @@ sections:
         - title: Platform software engineering intern
           company: mSenseAI
           company_url: 'msense.ai'
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Bengaluru
           date_start: '2022-07-01'
           date_end: '2022-08-01'
