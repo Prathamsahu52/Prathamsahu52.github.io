@@ -89,15 +89,14 @@ sections:
 
   - block: courses
     content:
-      title: Relevant Courses
+      title: Courses
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
       items:
-        - title: Introduction to Machine Learning, IIT Kanpur, 2023
-        - title: Data Structures and Algorithms, IIT Kanpur, 2022
-        - title: Operating Systems, IIT Kanpur, 2023
+        - title: Introduction to Machine Learning
+        - title: Introduction to Computer Science
 
-        # Add more relevant courses as needed...
-    design:
-      columns: '1'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
