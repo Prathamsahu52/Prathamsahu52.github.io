@@ -61,30 +61,54 @@ sections:
         
     design:
       columns: '2'
+  ---
+  title: Courses
+  type: landing
 
-  - block: scholastic
-    content:
-      title: Scholastic Achievements
-      date_format: Jan 2006
-      items:
-        - title: Director's Scholarship
-          organization: IIT Kanpur
-          date_start: '2022-07-01'
-          description: Awarded
+  sections:
+    - block: features
+      content:
+        title: My Interests
+        subtitle: Section subtitle
+        text: Section text
+        items:
+          - name: R
+            description: 90%
+            icon: r-project
+            icon_pack: fab
+          - name: Statistics
+            description: 100%
+            icon: chart-line
+            icon_pack: fas
+          - name: Photography
+            description: 10%
+            icon: camera-retro
+            icon_pack: fas
+  ---
 
-        - title: All India Rank 131
-          organization: JEE ADVANCED
-          date_start: '2022-07-01'
-          description: Secured an All India Rank of 131 among 150k shortlisted canditates
+  # - block: scholastic
+  #   content:
+  #     title: Scholastic Achievements
+  #     date_format: Jan 2006
+  #     items:
+  #       - title: Director's Scholarship
+  #         organization: IIT Kanpur
+  #         date_start: '2022-07-01'
+  #         description: Awarded
 
-        - title: Academic Excellence Award
-          organization: IIT Kanpur
-          date_start: '2022-07-01'
-          description: Recognised for being among the top 10% of the batch.
+  #       - title: All India Rank 131
+  #         organization: JEE ADVANCED
+  #         date_start: '2022-07-01'
+  #         description: Secured an All India Rank of 131 among 150k shortlisted canditates
 
-        # Add more scholastic achievements as needed...
-    design:
-      columns: '2'
+  #       - title: Academic Excellence Award
+  #         organization: IIT Kanpur
+  #         date_start: '2022-07-01'
+  #         description: Recognised for being among the top 10% of the batch.
+
+  #       # Add more scholastic achievements as needed...
+  #   design:
+  #     columns: '2'
 
   # - block: courses
   #   content:
