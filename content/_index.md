@@ -95,8 +95,17 @@ sections:
       date_format: Jan 2006
       items:
         - title: Introduction to Machine Learning
+          description: 'CS 771'
+          date_start: '2021-08-01'
+          date_end: ''
+          # description: |2-
+          #     Worked on implementing an platform for client side usage of the products
         - title: Introduction to Computer Science
-
+          description: 'CS 101'
+          date_start: '2021-08-01'
+          date_end: ''
+    design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
