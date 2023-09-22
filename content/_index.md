@@ -91,9 +91,9 @@ sections:
     content:
       title: Relevant Courses
       items:
-        - Introduction to Machine Learning, IIT Kanpur, 2023
-        - Data Structures and Algorithms, IIT Kanpur, 2022
-        - Operating Systems, IIT Kanpur, 2023
+        - title: Introduction to Machine Learning, IIT Kanpur, 2023
+        - title: Data Structures and Algorithms, IIT Kanpur, 2022
+        - title: Operating Systems, IIT Kanpur, 2023
 
         # Add more relevant courses as needed...
     design:
