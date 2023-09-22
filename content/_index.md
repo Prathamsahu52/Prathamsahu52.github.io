@@ -62,30 +62,30 @@ sections:
     design:
       columns: '2'
 
-  # - block: accomplishments
-  #   content:
-  #     title: Scholastic Achievements
-  #     date_format: Jan 2006
-  #     items:
-  #       - title: Director's Scholarship
-  #         organization: IIT Kanpur
-  #         date_start: '2021'
-  #         description: Awarded
+  - block: scholastic
+    content:
+      title: Scholastic Achievements
+      date_format: Jan 2006
+      items:
+        - title: Director's Scholarship
+          organization: IIT Kanpur
+          date_start: '2021'
+          description: Awarded
 
-  #       - title: All India Rank 131
-  #         organization: JEE ADVANCED
-  #         date_start: '2021'
-  #         description: Secured an All India Rank of 131 among 150k shortlisted canditates
+        - title: All India Rank 131
+          organization: JEE ADVANCED
+          date_start: '2021'
+          description: Secured an All India Rank of 131 among 150k shortlisted canditates
         
 
-  #       - title: Academic Excellence Award
-  #         organization: IIT Kanpur
-  #         date_start: '2021, 2022'
-  #         description: Recognised for being among the top 10% of the batch.
+        - title: Academic Excellence Award
+          organization: IIT Kanpur
+          date_start: '2021, 2022'
+          description: Recognised for being among the top 10% of the batch.
 
-  #       # Add more scholastic achievements as needed...
-  #   design:
-  #     columns: '2'
+        # Add more scholastic achievements as needed...
+    design:
+      columns: '2'
 
   # - block: courses
   #   content:
