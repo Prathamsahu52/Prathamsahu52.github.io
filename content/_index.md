@@ -61,6 +61,46 @@ sections:
         
     design:
       columns: '2'
+
+    - block: accomplishments
+    content:
+      title: Scholastic Achievements
+      date_format: Jan 2006
+      items:
+        - title: Director's Scholarship
+          organization: IIT Kanpur
+          date_start: '2021'
+          description: Awarded
+
+        - title: All India Rank 131
+          organization: JEE ADVANCED
+          date_start: '2021'
+          description: Secured an All India Rank of 131 among 150k shortlisted canditates
+        
+
+        - title: Academic Excellence Award
+          organization: IIT Kanpur
+          date_start: '2021, 2022'
+          description: Recognised for being among the top 10% of the batch.
+
+        # Add more scholastic achievements as needed...
+    design:
+      columns: '2'
+
+    - block: courses
+    content:
+      title: Relevant Courses
+      items:
+        - Introduction to Machine Learning, IIT Kanpur, 2023
+        - Data Structures and Algorithms, IIT Kanpur, 2022
+        - Operating Systems, IIT Kanpur, 2023
+
+        # Add more relevant courses as needed...
+    design:
+      columns: '1'
+
+
+
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
