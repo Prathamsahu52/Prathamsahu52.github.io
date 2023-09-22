@@ -62,7 +62,7 @@ sections:
     design:
       columns: '2'
 
-    - block: accomplishments
+  - block: accomplishments
     content:
       title: Scholastic Achievements
       date_format: Jan 2006
@@ -87,7 +87,7 @@ sections:
     design:
       columns: '2'
 
-    - block: courses
+  - block: courses
     content:
       title: Relevant Courses
       items:
@@ -98,9 +98,6 @@ sections:
         # Add more relevant courses as needed...
     design:
       columns: '1'
-
-
-
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
