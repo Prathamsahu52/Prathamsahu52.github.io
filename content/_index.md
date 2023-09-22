@@ -66,20 +66,19 @@ sections:
   
   - block: features
     content:
-      title: My Interests
-      subtitle: Section subtitle
-      text: Section text
+      title: My Courses
+      text: Courses I have taken at IIT Kanpur
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Operating Systems
+          description: CS330
+          icon: 
+          icon_pack: 
+        - name: Introduction to Machine Learning
+          description: CS771
+          icon: 
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Software Development and Operations
+          description: CS253
           icon: camera-retro
           icon_pack: fas
 
