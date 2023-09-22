@@ -69,18 +69,17 @@ sections:
       items:
         - title: Director's Scholarship
           organization: IIT Kanpur
-          date_start: '2021'
+          date_start: '2022-07-01'
           description: Awarded
 
         - title: All India Rank 131
           organization: JEE ADVANCED
-          date_start: '2021'
+          date_start: '2022-07-01'
           description: Secured an All India Rank of 131 among 150k shortlisted canditates
-        
 
         - title: Academic Excellence Award
           organization: IIT Kanpur
-          date_start: '2021, 2022'
+          date_start: '2022-07-01'
           description: Recognised for being among the top 10% of the batch.
 
         # Add more scholastic achievements as needed...
