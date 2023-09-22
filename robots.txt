@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://prathamsahu52.github.io/prathamsahu/sitemap.xml
+Sitemap: https://prathamsahu52.github.io/sitemap.xml
