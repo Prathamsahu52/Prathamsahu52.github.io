@@ -62,8 +62,6 @@ sections:
     design:
       columns: '2'
   
-
-  
   - block: features
     content:
       title: My Courses
@@ -79,8 +77,33 @@ sections:
           icon_pack: fas
         - name: Software Development and Operations
           description: CS253
-          icon: camera-retro
+          icon: 
           icon_pack: fas
+        - name: Probability for Computer Science
+          description: CS203
+          icon: 
+          icon_pack: fas 
+        - name: Data Structures and Algorithms
+          description: ESO207
+          icon: 
+          icon_pack: fas 
+        - name: Design and Analysis of Algorithms
+          description: CS345
+          icon: 
+          icon_pack: fas 
+        - name: Theory of Computation
+          description: CS340
+          icon: 
+          icon_pack: fas 
+        - name: Computer Organisation
+          description: CS220
+          icon: 
+          icon_pack: fas
+        - name: Big Data Analytics and Visualization
+          description: CS667
+          icon: 
+          icon_pack: fas
+
 
   # - block: scholastic
   #   content:
