@@ -61,61 +61,83 @@ sections:
         
     design:
       columns: '2'
-  
-  - block: features
-    content:
-      title: My Courses at IITK
-      items:
-        - name: Operating Systems
-          description: CS330
-          icon: 
-          icon_pack: fas
-        - name: Introduction to Machine Learning
-          description: CS771
-          icon: 
-          icon_pack: fas
-        - name: Software Development and Operations
-          description: CS253
-          icon: 
-          icon_pack: fas
-        - name: Probability for Computer Science
-          description: CS203
-          icon: 
-          icon_pack: fas 
-        - name: Data Structures and Algorithms
-          description: ESO207
-          icon: 
-          icon_pack: fas 
-        - name: Design and Analysis of Algorithms
-          description: CS345
-          icon: 
-          icon_pack: fas 
-        - name: Theory of Computation
-          description: CS340
-          icon: 
-          icon_pack: fas 
-        - name: Computer Organisation
-          description: CS220
-          icon: 
-          icon_pack: fas
-        - name: Big Data Analytics and Visualization
-          description: CS667
-          icon: 
-          icon_pack: fas
 
-  - block: tag_cloud
-      content:
-        title: My title
-        subtitle: My subtitle
-        text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-        # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
-        taxonomy: tags
-        # Choose how many tags you would like to display (0 = all tags)
-        count: 20
-      design:
-        # Minimum and maximum font sizes (1.0 = 100%).
-        font_size_min: 0.7
-        font_size_max: 2.0
+  - block: markdown
+    content:
+      title: Courses
+      subtitle: Courses I have taken at IIT Kanpur
+      text: |
+        | **Course Name**                         | **Course Code** |
+        |-----------------------------------------|-------------|
+        | Operating Systems                       | CS330       |
+        | Introduction to Machine Learning        | CS771       |
+        | Software Development and Operations     | CS253       |
+        | Probability for Computer Science        | CS203       |
+        | Data Structures and Algorithms          | ESO207      |
+        | Design and Analysis of Algorithms       | CS345       |
+        | Theory of Computation                   | CS340       |
+        | Computer Organisation                   | CS220       |
+        | Big Data Analytics and Visualization    | CS667       |
+
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+
+  # - block: features
+  #   content:
+  #     title: My Courses at IITK
+  #     items:
+  #       - name: Operating Systems
+  #         description: CS330
+  #         icon: 
+  #         icon_pack: fas
+  #       - name: Introduction to Machine Learning
+  #         description: CS771
+  #         icon: 
+  #         icon_pack: fas
+  #       - name: Software Development and Operations
+  #         description: CS253
+  #         icon: 
+  #         icon_pack: fas
+  #       - name: Probability for Computer Science
+  #         description: CS203
+  #         icon: 
+  #         icon_pack: fas 
+  #       - name: Data Structures and Algorithms
+  #         description: ESO207
+  #         icon: 
+  #         icon_pack: fas 
+  #       - name: Design and Analysis of Algorithms
+  #         description: CS345
+  #         icon: 
+  #         icon_pack: fas 
+  #       - name: Theory of Computation
+  #         description: CS340
+  #         icon: 
+  #         icon_pack: fas 
+  #       - name: Computer Organisation
+  #         description: CS220
+  #         icon: 
+  #         icon_pack: fas
+  #       - name: Big Data Analytics and Visualization
+  #         description: CS667
+  #         icon: 
+  #         icon_pack: fas
+
+  # - block: tag_cloud
+  #     content:
+  #       title: My title
+  #       subtitle: My subtitle
+  #       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+  #       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
+  #       taxonomy: tags
+  #       # Choose how many tags you would like to display (0 = all tags)
+  #       count: 20
+  #     design:
+  #       # Minimum and maximum font sizes (1.0 = 100%).
+  #       font_size_min: 0.7
+  #       font_size_max: 2.0
 
   # - block: scholastic
   #   content:
