@@ -73,6 +73,12 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/Pratham_resume.pdf
+  - icon : pc
+    icon_pack: ai
+    link: https://pclub.in/contact/
+    label: Programming Club, IIT Kanpur
+    display:
+      header: false
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
