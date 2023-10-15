@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Continual Learning"
+title: "My Summer Research experience in Korea"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2023-09-22T23:04:56+05:30
-lastmod: 2023-09-22T23:04:56+05:30
+date: 2023-10-15T22:45:51+05:30
+lastmod: 2023-10-15T22:45:51+05:30
 featured: false
 draft: false
 

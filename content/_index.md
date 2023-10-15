@@ -83,6 +83,31 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+  
+  - block: markdown
+    content:
+      title: My Academic Achievements
+      text: |
+
+        ### Examinations and Olympiads
+        - [**JEE Advanced 2021**](https://jeeadv.ac.in/): Secured an **All India Rank 131** among 1,50,000 shortlisted candidates, organized by IIT Kharagpur.
+        - [**JEE Mains 2021**](https://jeemain.nta.nic.in/): Achieved **All India Rank 87** out of 1.1 million candidates, organized by NTA.
+        - [**INPhO 2021**](http://olympiads.hbcse.tifr.res.in/subjects/physics):(Gold Medal) Bagged **AIR 44** and progressed to the National Selection Camp for IPhO.
+        - [**INAO 2021**](http://olympiads.hbcse.tifr.res.in/subjects/astronomy): Stood with **AIR 31** and made the cut for National Selection Camp for IAO.
+        - [**INChO 2021**](http://olympiads.hbcse.tifr.res.in/subjects/chemistry): Clinched **AIR 19** and represented at the National Selection Camp for IChO.
+        - [**KVPY SA 2019**](http://www.kvpy.iisc.ernet.in/): Secured **All India Rank 340**, organised by the Indian Institute of Science, Bangalore.
+        - [**KVPY SX 2020**](http://www.kvpy.iisc.ernet.in/): Ranked **All India Rank 148**, organised the Indian Institute of Science, Bangalore.
+        - [**NTSE 2019**](https://ncert.nic.in/national-talent-examination.php): Proud recipient of the coveted scholarship, an initiative by NCERT.
+
+        ### Awards and Recognitions
+        - [**Directors Scholarship**](http://www.iitk.ac.in/): Honored at **IIT Kanpur in 2022** for an outstanding JEE Advanced rank.
+        - [**Academic Excellence Award**](http://www.iitk.ac.in/): Recognized consecutively for the academic years 2021-22 and 2022-2023 for exceptional performance.
+
+    design:
+      columns: '2'
+
+
+
 
   # - block: features
   #   content:
@@ -202,33 +227,33 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
   # - block: portfolio
   #   id: projects
   #   content:
