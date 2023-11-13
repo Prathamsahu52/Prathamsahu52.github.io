@@ -9,7 +9,97 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>My Summer Research experience in Korea</title><link>https://prathamsahu52.github.io/post/korea/</link><pubDate>Sun, 15 Oct 2023 22:45:51 +0530</pubDate><guid>https://prathamsahu52.github.io/post/korea/</guid><description/></item><item><title>Continual Learning</title><link>https://prathamsahu52.github.io/post/continuallearning/</link><pubDate>Fri, 22 Sep 2023 23:04:56 +0530</pubDate><guid>https://prathamsahu52.github.io/post/continuallearning/</guid><description/></item><item><title>An example preprint / working paper</title><link>https://prathamsahu52.github.io/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://prathamsahu52.github.io/publication/preprint/</guid><description>&lt;div class="alert alert-note">
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>How to Land a CSE Research Internship Abroad - My Views</title><link>https://prathamsahu52.github.io/post/research_intern/</link><pubDate>Mon, 13 Nov 2023 19:10:27 +0530</pubDate><guid>https://prathamsahu52.github.io/post/research_intern/</guid><description>&lt;p>&lt;em>Note: I had done a Research Intern in my second year at &lt;a href="https://yonseivnl.github.io/" target="_blank" rel="noopener">Yonsei Vision and Learning Laboratories&lt;/a>.&lt;/em>&lt;/p>
+&lt;h1 id="route-1-via-programs">Route 1: Via Programs&lt;/h1>
+&lt;p>Some internship programs take in interns during their second-year summers. Information about these programs can be found &lt;a href="https://github.com/himahuja/Research-Internships-for-Undergraduates" target="_blank" rel="noopener">here&lt;/a>.
+In IIT Kanpur, the OIR(Office of International Relations) also arranges for internships with a few labs.&lt;/p>
+&lt;h1 id="route-2-via-cold-mailing">Route 2: Via Cold Mailing&lt;/h1>
+&lt;h3 id="step-1-decide-your-research-topic">Step 1: Decide Your Research Topic&lt;/h3>
+&lt;p>Selecting your research topic is a crucial initial step. Be certain of your choice as switching topics later can lead to a significant loss of valuable time. In Computer Science, research topics generally categorize into the following areas:(Taken from &lt;a href="https://csrankings.org/" target="_blank" rel="noopener">CSRankings&lt;/a>)&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Artificial Intelligence and Machine Learning:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Computer Vision&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Traditional Mathematical Machine Learning&lt;/li>
+&lt;li>Web and IR&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Systems:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Architecture and Organisation&lt;/li>
+&lt;li>Systems&lt;/li>
+&lt;li>Security&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>HPC&lt;/li>
+&lt;li>OS&lt;/li>
+&lt;li>Programming Languages&lt;/li>
+&lt;li>Software Engineering&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Theory:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Algorithms&lt;/li>
+&lt;li>Logic&lt;/li>
+&lt;li>Cryptography&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Miscellaneous:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Computer Graphics&lt;/li>
+&lt;li>Parallel Computing and Visualization&lt;/li>
+&lt;li>HCI&lt;/li>
+&lt;li>Robotics&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="step-2-databasing">Step 2: Databasing&lt;/h3>
+&lt;p>Begin by identifying Professors and Labs that focus on your area of interest. Be proactive as some programs announce openings throughout the year.&lt;/p>
+&lt;ul>
+&lt;li>Start with &lt;a href="https://csrankings.org/" target="_blank" rel="noopener">CSRankings&lt;/a>, which is a comprehensive repository of universities and faculty members.&lt;/li>
+&lt;li>Don&amp;rsquo;t rely solely on rankings to judge the quality of a lab; instead, delve into the research topics that intrigue you.&lt;/li>
+&lt;li>Conduct thorough research and compile a list of Labs and Professors you find appealing.&lt;/li>
+&lt;li>Remember that not all faculty members may be listed on CSRankings, so you should also visit the computer science department websites directly, such as the one for &lt;a href="http://www.iitk.ac.in/" target="_blank" rel="noopener">IIT Kanpur&lt;/a>, to discover more researchers.&lt;/li>
+&lt;li>Focus on Professors who are Principal Investigators (PIs) of labs as they typically have the funds to support interns.&lt;/li>
+&lt;/ul>
+&lt;h4 id="some-popular-labsgroups-to-consider">Some Popular Labs/Groups to Consider:&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.inria.fr/en" target="_blank" rel="noopener">Inria&lt;/a> - The French National Institute for computer science and applied mathematics.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://cispa.saarland/" target="_blank" rel="noopener">CISPA&lt;/a> - Helmholtz Center for Information Security.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>For those interested in Computer Vision, check out this list of &lt;a href="https://medium.com/maheshkkumar/computer-vision-research-laboratories-fa344a129b3e" target="_blank" rel="noopener">Computer Vision Research Laboratories&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Suggestions for additional resources are welcome!&lt;/p>
+&lt;h3 id="step-3-approaching-the-lab-via-email">Step 3: Approaching the Lab via Email&lt;/h3>
+&lt;p>Email communication is a critical step in the application process and greatly influences whether your email is engaged with or disregarded.&lt;/p>
+&lt;h4 id="dos">Do’s:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Be Concise:&lt;/strong> Get straight to the point without unnecessary details.&lt;/li>
+&lt;li>&lt;strong>Specify Context:&lt;/strong> In the opening paragraph, clearly state the purpose of your email, when you&amp;rsquo;d like to intern, and your area of research interest.&lt;/li>
+&lt;li>&lt;strong>Express Interest:&lt;/strong> Explain why you are drawn to research and to the lab in particular.&lt;/li>
+&lt;li>&lt;strong>Personalize:&lt;/strong> Tailor each email to the respective professor by mentioning specific details from their recent publications, showing genuine interest in their work.&lt;/li>
+&lt;li>&lt;strong>Attachments:&lt;/strong> Include links to your resume and transcripts, preferably hosted on a reliable platform like Google Drive.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Note: For privacy reasons, the content of my personal emails is not included here. Please contact me directly if you would like to use my email as a template.&lt;/em>&lt;/p>
+&lt;h3 id="step-4-handling-replies">Step 4: Handling Replies&lt;/h3>
+&lt;p>Receiving a reply, positive or negative, is part of the process.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>No Response:&lt;/strong> If there is silence, consider revising your email approach.&lt;/li>
+&lt;li>&lt;strong>Rejections:&lt;/strong> Don&amp;rsquo;t be disheartened by a &amp;rsquo;no&amp;rsquo;. Often, the reasons are explained and it&amp;rsquo;s not always about your qualifications.&lt;/li>
+&lt;li>&lt;strong>Interviews:&lt;/strong> If an interview is arranged, clarify your intentions for wanting to join the lab. Revisit the papers you referenced in your email to prepare. Confidence and clear communication are key as professors and researchers are typically empathetic.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Fun Fact:&lt;/strong> While I was at Imagica (a theme park) enjoying a trip with my friends, I received an email notifying me that my interview for YVnL was unexpectedly scheduled for that very evening. I left the park and found a hotel nearby to conduct the interview. Surprisingly, I wasn&amp;rsquo;t prepared at all, but I believe that sometimes being underprepared can actually be beneficial—it forces you to be authentic and think on your feet!&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>Note:&lt;/strong> This guide is tailored for students seeking research internships in computer science and engineering (CSE) abroad.&lt;/p></description></item><item><title>An example preprint / working paper</title><link>https://prathamsahu52.github.io/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://prathamsahu52.github.io/publication/preprint/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
