@@ -3,7 +3,7 @@
 
 title: "How to Land a CSE Research Internship Abroad - My Views"
 subtitle: ""
-summary: ""
+summary: "How I landed a research internship in my second year summers"
 authors: [Pratham Sahu]
 tags: []
 categories: []

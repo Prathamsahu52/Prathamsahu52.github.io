@@ -77,7 +77,7 @@ sections:
         | Design and Analysis of Algorithms       | CS345       |
         | Theory of Computation                   | CS340       |
         | Computer Organisation                   | CS220       |
-        | Big Data Analytics and Visualization    | CS667       |
+        | Big Data Analytics and Visualization    | CS677       |
 
     design:
       # See Page Builder docs for all section customization options.
