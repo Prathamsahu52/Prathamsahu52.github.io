@@ -106,6 +106,10 @@ sections:
         | Theory of Computation                   | CS340       |
         | Computer Organisation                   | CS220       |
         | Big Data Analytics and Visualization    | CS677       |
+        | Linux Kernel Programming                | CS614       |
+        | Compiler Design                         | CS335       |
+        | Networks                                | CS425       |
+        | Parallel Computing                      | CS633       |
 
     design:
       # See Page Builder docs for all section customization options.
