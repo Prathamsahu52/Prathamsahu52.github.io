@@ -36,7 +36,7 @@ interests:
 education:
   courses:
     - course: BTech in Computer Science and Engineering
-      institution: Indian Institute of Technology, IIT Kanpur
+      institution: Indian Institute of Technology Kanpur
       year: 2025
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
