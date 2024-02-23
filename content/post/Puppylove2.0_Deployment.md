@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Puppylove2.0_Deployment"
+title: "Puppylove2.0 Deployment"
 subtitle: ""
 summary: "Using kubernetes to deploy a go backend and postgres application"
 authors: []
