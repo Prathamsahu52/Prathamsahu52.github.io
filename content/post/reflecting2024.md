@@ -4,7 +4,7 @@
 title: "Looking back on 2023"
 subtitle: ""
 summary: "2023 in a nutshell"
-authors: []
+authors: [Pratham Sahu]
 tags: []
 categories: []
 date: 2023-12-26T03:29:39+05:30

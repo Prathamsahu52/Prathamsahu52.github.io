@@ -4,7 +4,7 @@
 title: "Puppylove2.0 Deployment"
 subtitle: ""
 summary: "Using kubernetes to deploy a go backend and postgres application"
-authors: []
+authors: [Pratham Sahu]
 tags: []
 categories: []
 date: 2024-02-04T00:06:40+05:30

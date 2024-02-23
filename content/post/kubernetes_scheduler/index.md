@@ -4,7 +4,7 @@
 title: "Kubernetes Scheduler module"
 subtitle: ""
 summary: "How the scheduler module of kubernetes works, a code review"
-authors: []
+authors: [Pratham Sahu]
 tags: []
 categories: []
 date: 2024-02-23T13:34:30+05:30
