@@ -61,7 +61,8 @@ sections:
         
     design:
       columns: '2'
-      
+  
+  
   - block: collection
     id: posts
     content:
@@ -89,6 +90,22 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  - block: collection
+    id: competitions
+    content:
+      title: Competitions
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on crit  eria
+      filters:
+        folders:
+          - competition
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2' 
 
   - block: markdown
     content:
