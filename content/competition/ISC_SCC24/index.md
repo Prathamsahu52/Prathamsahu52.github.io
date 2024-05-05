@@ -37,10 +37,10 @@ The IIT Kanpur team. 'ExaDecimals', is a group of third year undergraduate stude
 <!-- Insert image -->
 ![ISC SCC 2024](images/teams.jpeg)
 
-Our team was selected to participate in the 2024 ISC Student Cluster Competition, in the virtual round. We submitted are proposal on October last year and were selected to participate in the competition. We were one of the first Indian team to participate in the competition, and also one of the very few first time participants. We were competing agaisnt top Universities from all over the world, and had very less experience in the field of HPC. However, we were determined to learn and compete with the best.
+Our team was selected to participate in the 2024 ISC Student Cluster Competition, in the virtual round. We submitted our proposal in October last year and became one of the first Indian team to participate in the competition, and also one of the very few first time participants in this years event. We were competing agaisnt top universities from all over the world, and were aware of our lack of experience in the field. However, we were determined to learn and make the most of this opportunity.
 
 ## Preparation Phase
-Our early preperations started with learning about building, running, profiling and visualizing applications in the local CSE beouwulf cluster, then followed by Param Sanganak, our in house Supercomputer. We initially started with trying out the tasks given in the previous years. 
+Our early preperations started with learning about building, running, profiling and visualizing applications in the local CSE beouwulf cluster, then followed by Param Sanganak, our in house Supercomputer at IITK. We initially started with trying out the tasks given in the previous years of the competition.
 ## Competition Overview
 
 The competition was 2 months long and began in March. We were given 4 tasks to complete which covered a wide range of topics, including parallelization, optimizations, scaling, profiling and visualization.
@@ -56,6 +56,7 @@ The second task was to run, profile and visualize the runs of RegCM for the give
 The third task was to analyze and find the best configuration of OpenMP threads and MPI processes for the Conquest application. We were also asked to profile the application. Our team also performed weak scaling and strong scaling experiments on the application.
 
 4. **Profiling and Visualization of NekoCFD:**
-The final task was to run, profile and visualise the NekoCFD code with CPU and GPU backends. This was also run on the Bridges-2 Supercomputer. We ran the code for different configurations and visualized the results using Paraview.
+The final task was to run, profile and visualise the NekoCFD code with CPU and GPU backends. This was also run on the Bridges-2 Supercomputer. We ran the code for different configurations, profiled using Tau and visualized the output files using Paraview.
+
 
 Overall the competition was a great learning experience for us. We learned a lot about HPC, parallelization, optimizations, profiling and visualization. We also learned about the importance of teamwork, communication and time management. We were able to complete all the tasks and submit the final report on time. We are eagerly waiting for the results of the competition and hope to participate in the next edition of the competition.
