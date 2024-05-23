@@ -40,13 +40,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Intern
+          company: Adobe Research, Big Data Experience Lab
+          company_url: 'https://research.adobe.com/'
+          company_logo: ''
+          location: Bengaluru, India
+          date_start: '2024-05-13'
+          date_end: ''
+          description: Systems and Language Research Group
+
         - title: Intern Research Assistant
           company: Yonsei Vision and learning Laboratories
           company_url: ''
           # company_logo: org-x
           location: Seoul, South Korea
           date_start: '2023-05-01'
-          date_end: ''
+          date_end: '2023-08-31'
           description: Performed research on Continual Learning Algorithms
 
         - title: Platform software engineering intern
