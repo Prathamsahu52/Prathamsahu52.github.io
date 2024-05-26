@@ -1,6 +1,6 @@
 ---
 title: ISC Student Cluster Competition 2024
-summary: Update: We ranked 8th out of 21 teams worldwide. Pretty good for the only first time team in the competition!
+summary: "UPDATE: We ranked 8th out of 21 teams worldwide. Pretty good for the only first time team in the competition!"
 tags:
   - HPC
   - ISC SCC
