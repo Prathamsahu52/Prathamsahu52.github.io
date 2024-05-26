@@ -66,7 +66,7 @@ sections:
           date_start: '2022-07-01'
           date_end: '2022-08-01'
           description: |2-
-              Worked on implementing an platform for client side usage of the products
+              Worked on implementing an platform for client side deployment of product.
         
     design:
       columns: '2'

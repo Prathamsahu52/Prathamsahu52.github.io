@@ -1,6 +1,6 @@
 ---
 title: ISC Student Cluster Competition 2024
-summary: 
+summary: Update: We ranked 8th out of 21 teams worldwide. Pretty good for the only first time team in the competition!
 tags:
   - HPC
   - ISC SCC
@@ -60,3 +60,5 @@ The final task was to run, profile and visualise the NekoCFD code with CPU and G
 
 
 Overall the competition was a great learning experience for us. We learned a lot about HPC, parallelization, optimizations, profiling and visualization. We also learned about the importance of teamwork, communication and time management. We were able to complete all the tasks and submit the final report on time. We are eagerly waiting for the results of the competition and hope to participate in the next edition of the competition.
+
+**Update: We ranked 8th out of 21 teams worldwide. Pretty good for the only first time team in the competition!**
