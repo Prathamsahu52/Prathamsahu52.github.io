@@ -160,6 +160,8 @@ sections:
         ### Awards and Recognitions
         - [**Directors Scholarship**](http://www.iitk.ac.in/): Honored at **IIT Kanpur in 2022** for an outstanding JEE Advanced rank.
         - [**Academic Excellence Award**](http://www.iitk.ac.in/): Recognized consecutively for the academic years 2021-22 and 2022-2023 for exceptional performance.
+        - Accepted into the [**Inaugural IEEE-CS TCHPC/TCPP HPC Student Cohort 2024**](https://tc.computer.org/tchpc/home-page/page-of-awards/)
+
 
     design:
       columns: '2'

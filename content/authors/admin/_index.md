@@ -87,10 +87,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi I am Pratham Sahu, a third year undergradaute student majoring in [Computer Science and Engineering at the Indian Institute of Technology Kanpur](https://cse.iitk.ac.in/). I am interested in low level computer systems. Lately, I have been
-delving into Parallel Computing and Kernel Programming. I have worked a bit on Machine learning in the past.
+Hi I am Pratham Sahu, a final year undergradaute student majoring in [Computer Science and Engineering at the Indian Institute of Technology Kanpur](https://cse.iitk.ac.in/). I am interested in low level computer systems. Lately, I have been
+delving into Parallel Computing and Kernel Programming. 
 
-In addition, I am also associated with the [Programming Club](https://pclub.in/contact/) at IIT Kanpur where I am currently the coordinator. We are a group of like minded individuals who love exploring the multiple domains of Programming. 
+In addition, I was also associated with the [Programming Club](https://pclub.in/contact/) at IIT Kanpur where I was previously the coordinator. We are a group of like minded individuals who love exploring the multiple domains of Programming. 
 Outside the technical realm, I have a penchant for travel. My dream is to one day check off every destination on my travel wish list.
 {style="text-align: justify;"}
 ---
